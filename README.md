@@ -1,5 +1,5 @@
 # Divisores
-Aplicação responsável possui basicamente duas funcionalidades: BuscarDivisores e BuscarDivisoresPrimos
+A aplicação possui basicamente duas funcionalidades: BuscarDivisores e BuscarDivisoresPrimos
 
 webapi desenvolvida em .Net core 
 
@@ -10,6 +10,8 @@ EndPoints:
     
   [GET] http://localhost:5000/api/divisores/BuscaDivisoresPrimos/{dividendo}
     - Responsável por retornar uma lista de inteiros com todos os divisores do dividendo informado que são números primos.
+
+Testes configurados utilizando xUnit
 
 Para realizar os testes unitários entre na pasta test e execute o comando dotnet test
 
