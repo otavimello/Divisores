@@ -1,0 +1,14 @@
+C:\github\Divisores\bin\Debug\netcoreapp2.2\Divisores.deps.json
+C:\github\Divisores\bin\Debug\netcoreapp2.2\Divisores.runtimeconfig.json
+C:\github\Divisores\bin\Debug\netcoreapp2.2\Divisores.runtimeconfig.dev.json
+C:\github\Divisores\bin\Debug\netcoreapp2.2\Divisores.dll
+C:\github\Divisores\bin\Debug\netcoreapp2.2\Divisores.pdb
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.csprojAssemblyReference.cache
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.csproj.CoreCompileInputs.cache
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.RazorAssemblyInfo.cache
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.RazorAssemblyInfo.cs
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.AssemblyInfoInputs.cache
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.AssemblyInfo.cs
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.RazorTargetAssemblyInfo.cache
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.dll
+C:\github\Divisores\obj\Debug\netcoreapp2.2\Divisores.pdb

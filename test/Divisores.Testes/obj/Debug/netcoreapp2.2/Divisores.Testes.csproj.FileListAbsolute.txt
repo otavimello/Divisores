@@ -1,0 +1,14 @@
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\Divisores.Testes.deps.json
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\Divisores.Testes.runtimeconfig.json
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\Divisores.Testes.runtimeconfig.dev.json
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\Divisores.Testes.dll
+c:\github\Divisores.Testes\bin\Debug\netcoreapp2.2\Divisores.Testes.pdb
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.csprojAssemblyReference.cache
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.csproj.CoreCompileInputs.cache
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.AssemblyInfoInputs.cache
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.AssemblyInfo.cs
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.dll
+c:\github\Divisores.Testes\obj\Debug\netcoreapp2.2\Divisores.Testes.pdb
